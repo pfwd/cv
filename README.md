@@ -7,7 +7,7 @@ UK based Full Stack Web developer (Freelance/Contractor), author and host of the
 - Write a based book on programming
 
 # Skills and assets
-- A desire for testing, good practice and clean code
+- A passion for testing, good practice and clean code
 - Experience with PHP frameworks such as Symfony, Laravel and Zend
 - Experience with PHP build and testing tools such as composer, PHPStan, Codeception and PHP Unit
 - Experience with Python frameworks such as Django and Flask
@@ -16,7 +16,7 @@ UK based Full Stack Web developer (Freelance/Contractor), author and host of the
 - Teacher to over 6000 online students (HowToCodeWell YouTube Channel)
 - Experience with source control systems such as Git, and SVN
 - Fluent Linux command line skills
-- Over a decade of professional web development experience (Almost 2 decades including study)
+- Over a decade of professional web development experience (Almost 2 decades including study of the field)
 
 ## Work History
 
