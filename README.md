@@ -1,5 +1,5 @@
 # CV of Peter Fisher BSc MBCS 
-UK based Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [Podcast](https://howtocodewell.fm)
+Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [Podcast](https://howtocodewell.fm)
 
 # Future Objectives
 - To continue learning other web based languages and software design principles
