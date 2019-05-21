@@ -50,7 +50,9 @@ Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Androi
 ### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
 
-Building web apps in Javascript for use on Android and iPhone devices. Helping web team upgrade projects to Symfony 3
+Building mobile apps in Javascript for use on Android and iPhone devices. 
+
+Helping the web team upgrade projects to Symfony 3
 
 Daily technology used: JavaScript (AlloyJs) and PHP (Symfony)
 
@@ -65,7 +67,7 @@ Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
 Writing Technical specifications and conducting project analysis for control panel development. 
 
-Acting as project lead for small to medium sized projects that are developed in a team of five web developers. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
+Acting as project lead for small to medium sized projects. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
 
 Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
@@ -83,7 +85,9 @@ Migrated Redder CMS from CakePHP to Symfony
 ### 2007 - 2008 | Junior Developer at Redder
 [Redder](https://redder.space)
 
-Building micro sites and using cakePHP and jQuery
+Building micro sites and e commerce web systems
+
+Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery)
 
 <div style="page-break-after: always;"></div>
 
