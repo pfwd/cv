@@ -4,7 +4,7 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 # Future Objectives
 - To continue learning other web based languages and software design principles
 - Speak at conferences
-- Write a based book on programming
+- Write a book based on programming
 
 # Skills and assets
 - A passion for testing, good practice and clean code
