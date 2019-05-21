@@ -30,7 +30,7 @@ The legacy platform was over 14 years old and running PHP 5.5. It was my job to 
 
 During this time I was also building Microsites for the cancer research industry.  Most of the sites have been built using Concrete5 or Symfony
 
-Daily technology used: PHP (Symfony), MYSQL, AWS (SQS, Lambda, EC2), Docker, Linux, Symfony2, JavaScript, CSS and HTML
+Daily technology used: PHP (Symfony), MYSQL, AWS (SQS, Lambda, EC2), Docker, Linux, JavaScript, CSS and HTML
 
 ### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
