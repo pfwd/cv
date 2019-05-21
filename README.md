@@ -36,12 +36,12 @@ Daily technology used: PHP (Symfony), MYSQL, AWS (SQS, Lambda, EC2), Docker, Lin
 ### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
 
-Building the frontend website in Wordpress
+Building the frontend website in Wordpress and working along side designers.
 
 ### 2016 - 2018 | Contractor at Kloc Digital Solutions
 [Kloc Digital Solutions](https://kloc.co.uk) 
 
-Building a mobile app, API and CMS for Above the Line security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS/API in Laravel and built the app in JavaScript for Android and iPhone
+Building a mobile app, API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
 
 Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
 
