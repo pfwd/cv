@@ -18,7 +18,7 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Fluent Linux command line skills
 - Over a decade of professional web development experience (Almost 2 decades including study of the field)
 
-## Work History
+## Work history
 
 ### 2016 - Present | Contractor at The E Cancer Global Foundation 
 PHP Contractor, programming teacher, Software architect
