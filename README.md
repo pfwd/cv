@@ -13,10 +13,10 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Experience with Python frameworks such as Django and Flask
 - Experience with devops tools including Docker, Jenkins and AWS
 - Experience in client sided frameworks and task runners such as WebPack, NPM and Gulp
-- Teacher to over 6000 online students (HowToCodeWell YouTube Channel)
 - Experience with source control systems such as Git, and SVN
 - Fluent Linux command line skills
 - Over a decade of professional web development experience (Almost 2 decades including study of the field)
+- Teacher to over 6000 online students (HowToCodeWell YouTube Channel)
 
 ## Work history
 
