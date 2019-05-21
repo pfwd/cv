@@ -1,7 +1,7 @@
 # CV of Peter Fisher BSc MBCS 
 Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.fm)
 
-# Future Objectives
+# Future objectives
 - To continue learning other web based languages and software design principles
 - Speak at conferences
 - Write a book based on programming
