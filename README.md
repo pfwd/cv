@@ -16,7 +16,6 @@ UK based freelance web developer. Author, Host of the [HowToCodeWell](https://ww
 - Teacher to over 6000 online students (HowToCodeWell YouTube Channel)
 - Experience with source control systems such as Git, and SVN
 - Fluent Linux command line skills
-- Remote worker for over 6 years
 - Over a decade of professional web development experience (Almost 2 decades including study)
 
 ## Work History
