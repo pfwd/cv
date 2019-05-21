@@ -87,10 +87,10 @@ Building micro sites and using cakePHP and jQuery
 <div style="page-break-after: always;"></div>
 
 ### Education
-|             |                                                             |
+|      Date       |       Course/Institute                                                      |
 |-------------|-------------------------------------------------------------|
-| 2011        | CEH (Certified Ehtical Hacker)                              |
-| 2011        | LPIC-1 (Linux Professional Certification)                   |
+| 2011        | CEH (Certified Ehtical Hacker)    - Self Study                          |
+| 2011        | LPIC-1 (Linux Professional Certification)   - Self Study                |
 | 2010        | 7 Safe Ethical Hacking                                      |
 | 2009        | Well House Consultants The MySQL Relation Database          |
 | 2009        | Well House Consultants OOP PHP                              |
