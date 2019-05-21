@@ -47,7 +47,7 @@ Daily technology used AlloyJs
 Remote Position. Self motivated working at home but within a remote team. Using Slack, Skype, Jira, Trello and Google Hangouts as collaboration tools.  Mobile Development using Appcelerator 
 Building Food Traceability systems using DynamoDB, AWS, Linux, Javascript and PHP (Symfony 2 and composer)
 
-Built [sortedfood.com](sortedfood.com) (Both frontend and API)
+Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
 ### 2010 - 2012 Senior PHP Developer at Fasthosts
 [Fasthosts](https://www.fasthosts.co.uk)
