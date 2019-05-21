@@ -20,7 +20,8 @@ UK based freelance web developer. Author, Host of the [HowToCodeWell](https://ww
 ## Work History
 
 ### 2016 - Present Contractor at The E Cancer Global Foundation 
-PHP Contractor, Programming Teacher, Software architect
+PHP Contractor, programming teacher, Software architect
+
 Architecting and developing the e-cancer web platform which includes an API, CMS, Public website, Micro sites and e-learning system
 Also teaching HTML to Cancer Intelligence employees
 Daily technology used PHP (Symfony), MYSQL, AWS, Docker, Linux, Symfony2, JavaScript, CSS, HTML
