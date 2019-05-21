@@ -7,6 +7,7 @@ UK based freelance web developer. Author, Host of the [HowToCodeWell](https://ww
 - Write a based book on programming
 
 # Skills and assets
+- A desire for testing, good practice and clean code
 - Experience with PHP frameworks such as Symfony, Laravel and Zend
 - Experience with PHP build and testing tools such as composer, PHPStan, Codeception and PHP Unit
 - Experience with Python frameworks such as Django and Flask
@@ -19,45 +20,53 @@ UK based freelance web developer. Author, Host of the [HowToCodeWell](https://ww
 
 ## Work History
 
-### 2016 - Present Contractor at The E Cancer Global Foundation 
+### 2016 - Present | Contractor at The E Cancer Global Foundation 
 PHP Contractor, programming teacher, Software architect
 
-Architecting and developing the e-cancer web platform which includes an API, CMS, Public website, Micro sites and e-learning system
-Also teaching HTML to Cancer Intelligence employees
-Daily technology used PHP (Symfony), MYSQL, AWS, Docker, Linux, Symfony2, JavaScript, CSS, HTML
+Architecting and developing a rebuild of the e-cancer web platform which includes an API, CMS, public website and e-learning system
+Also teaching HTML to Cancer Intelligence employees. 
 
-### 2017 - 2018  Contractor at FS4S (Financial Services For Schools)
+The legacy platform was over 14 years old and running PHP 5.5. It was my job to upgrade this to PHP 7.2 on a new AWS infrastructure with a new frontend and API layer
+
+During this time I was also building Microsites for the cancer research industry.  Most of the sites have been built using Concrete5 or Symfony
+
+Daily technology used: PHP (Symfony), MYSQL, AWS (SQS, Lambda, EC2), Docker, Linux, Symfony2, JavaScript, CSS and HTML
+
+### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
 
 Building the frontend website in Wordpress
 
-### 2016 - 2018 Contractor at Kloc Digital Solutions
+### 2016 - 2018 | Contractor at Kloc Digital Solutions
 [Kloc Digital Solutions](https://kloc.co.uk) 
 
 Building a mobile app, API and CMS for Above the Line security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS/API in Laravel and built the app in JavaScript for Android and iPhone
-Daily technology used PHP (Laravel), Appcelerator (AlloyJS), Android, iOS
 
+Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
 
-### 2016 - 2017  Contractor at Agrantec
+### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
 
-Building web apps in Javascript for use on Android and iPhone devices
-Daily technology used AlloyJs
+Building web apps in Javascript for use on Android and iPhone devices. Helping web team upgrade projects to Symfony 3
 
-### 2012 - 2016  Senior PHP Developer at Agrantec
+Daily technology used: JavaScript (AlloyJs) and PHP (Symfony)
+
+### 2012 - 2016 | Senior PHP Developer at Agrantec
 Remote Position. Self motivated working at home but within a remote team. Using Slack, Skype, Jira, Trello and Google Hangouts as collaboration tools.  Mobile Development using Appcelerator 
 Building Food Traceability systems using DynamoDB, AWS, Linux, Javascript and PHP (Symfony 2 and composer)
 
 Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
-### 2010 - 2012 Senior PHP Developer at Fasthosts
+### 2010 - 2012 | Senior PHP Developer at Fasthosts
 [Fasthosts](https://www.fasthosts.co.uk)
 
 Writing Technical specifications and conducting project analysis for control panel development. 
 
 Acting as project lead for small to medium sized projects that are developed in a team of five web developers. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
 
-### 2008 - 2010  Web Applications Developer at Redder
+Daily technology used: PHP (Zend) and JavaScript (jQuery)
+
+### 2008 - 2010 |  Web Applications Developer at Redder
 [Redder](https://redder.space)
 
 Lead programmer working with freelancers and other developers to create a video upload and private/public voting sites. 
@@ -68,7 +77,7 @@ Using FFMPEG on a Centos/Plesk server to encode many different video formats to 
 
 Migrated Redder CMS from CakePHP to Symfony
 
-### 2007 - 2008 Junior Developer at Redder
+### 2007 - 2008 | Junior Developer at Redder
 [Redder](https://redder.space)
 
 Building micro sites and using cakePHP and jQuery
