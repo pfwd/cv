@@ -1,5 +1,5 @@
 # CV of Peter Fisher BSc MBCS 
-UK based freelance web developer. Author, Host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [Podcast](https://howtocodewell.fm)
+UK based Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [Podcast](https://howtocodewell.fm)
 
 # Future Objectives
 - To continue learning other web based languages and software design principles
@@ -44,6 +44,8 @@ Building a mobile app, API and CMS for Above the Line security which is used in 
 
 Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
 
+<div style="page-break-after: always;"></div>
+
 ### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
 
@@ -81,6 +83,8 @@ Migrated Redder CMS from CakePHP to Symfony
 [Redder](https://redder.space)
 
 Building micro sites and using cakePHP and jQuery
+
+<div style="page-break-after: always;"></div>
 
 ### Education
 |             |                                                             |
