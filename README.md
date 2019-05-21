@@ -117,7 +117,7 @@ Outside of YouTube I have created video courses for Manning Publications and Pac
 - Python Clean Coding
 
 ### Podcast host at How To Code Well
-Interviewing web developers and industry leaders on [video and audio podcast](https://howtocodewell.fm)
+Interviewing web developers and industry leaders on a [video and audio podcast](https://howtocodewell.fm)
 
 ### How To Code Well Video Courses
 Over 300 Video tutorials teaching Docker, PHP, JavaScript, Python and other web technologies and best practices on [YouTube](https://www.youtube.com/howtocodewell)
