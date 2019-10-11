@@ -16,11 +16,13 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Experience with source control systems such as Git, and SVN
 - Fluent Linux command line skills
 - Over a decade of professional web development experience (Almost 2 decades including study of the field)
-- Teacher to over 6000 online students (HowToCodeWell YouTube Channel)
+- Teacher to over online students (HowToCodeWell YouTube Channel)
 
 ## Work history
 
 ### 2016 - Present | Contractor at The E Cancer Global Foundation 
+[Ecancer.org](http://www.ecancer.org)
+
 PHP Contractor, programming teacher, Software architect
 
 Architecting and developing a full rebuild of the e-cancer web platform which includes a CMS, API, public facing website and e-learning system.
@@ -112,21 +114,17 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 - [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)
 
 ### Video course instructor
-Outside of YouTube I have created video courses for Manning Publications and Packt Publishing 
+I have created video courses for Manning Publications and Packt Publishing 
 
 #### Manning Publications
 - [Docker In Motion](http://bit.ly/2vvz2sA)
 
 #### Packt Publications
 - [Hands-on Microservices in Python](https://www.packtpub.com/application-development/hands-microservices-python-video)
-- Python Clean Coding
+- [Python Clean Coding](https://www.packtpub.com/programming/python-clean-coding-video)
 
 ### Podcast host at How To Code Well
 Interviewing web developers and industry leaders on a [video and audio podcast](https://howtocodewell.fm)
-
-### How To Code Well Video Courses
-Over 300 Video tutorials teaching Docker, PHP, JavaScript, Python and other web technologies and best practices on [YouTube](https://www.youtube.com/howtocodewell)
-
 
 ## Hobby's and interests
 - Running, cycling and weight lifting
