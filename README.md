@@ -31,7 +31,7 @@ The legacy platform was over 14 years old and running PHP 5.5. It was my job to 
 
 During this time I was also building micro sites for the cancer research industry.  Most of these sites have been built using Concrete5 or Symfony.
 
-I also built Docker images that were used to build local, test and production environments.
+I also developed Docker images that were used to build local, test and production environments.
 
 I also held classes that teach HTML to the marketing and e-learning departments. 
 
