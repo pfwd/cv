@@ -111,9 +111,9 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 ## Publications
 
 ### Talks I have given at PHP South West
-- [Using a framework or Not](https://youtu.be/T8R3YTrqt6U)
-- [How to put your Docker image on a diet](https://youtu.be/uiABt9axPNo)
-- [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)
+- [Using a framework or Not](https://youtu.be/T8R3YTrqt6U)  - Given at PHP South West, PHP South Wales
+- [How to put your Docker image on a diet](https://youtu.be/uiABt9axPNo)  - Given at PHP South West
+- [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)  - Given at PHP South West
 
 ### Video course instructor
 I have created video courses for Manning Publications and Packt Publishing 
