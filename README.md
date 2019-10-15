@@ -31,9 +31,11 @@ The legacy platform was over 14 years old and running PHP 5.5. It was my job to 
 
 During this time I was also building micro sites for the cancer research industry.  Most of these sites have been built using Concrete5 or Symfony.
 
-I have also held classes that teach HTML to the marketing and e-learning departments. 
+I also built Docker images that were used to build local, test and production environments.
 
-Daily technology used: PHP (Symfony), MYSQL, AWS (SQS, Lambda, EC2), Docker, Linux, JavaScript, CSS and HTML
+I also held classes that teach HTML to the marketing and e-learning departments. 
+
+Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS (Aurora, SQS, Lambda, EC2), Micro Services, Docker, Linux, JavaScript (NodeJS, Vanilla), CSS and HTML
 
 ### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
