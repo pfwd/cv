@@ -19,17 +19,21 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Teacher to over online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+### 2019 - 2020 | Contractor at Planet Wide City 
+[Planet Wide City](https://www.planetwidecity.com)
 
-### 2016 - Present | Contractor at The E Cancer Global Foundation 
+PHP Contractor and consultant working on legacy PHP projects using Magento, Docker and Linux
+
+### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
 [Ecancer.org](http://www.ecancer.org)
 
 PHP Contractor, programming teacher, Software architect
 
-Architecting and developing a full rebuild of the e-cancer web platform which includes a CMS, API, public facing website and e-learning system.
+Architecting and developing a full rebuild of the e-cancer web platform including a CMS, API, website and e-learning system
 
 The legacy platform was over 14 years old and running PHP 5.5. It was my job to upgrade this monolithic system to PHP 7.2 on a new AWS infrastructure. This also included a new frontend and API layer
 
-During this time I was also building micro sites for the cancer research industry.  Most of these sites have been built using Concrete5 or Symfony.
+During this time I was also building micro sites for the cancer research industry.
 
 I also developed Docker images that were used to build local, test and production environments.
 
