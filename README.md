@@ -8,21 +8,24 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 
 # Skills and assets
 - A passion for testing, good practice and clean code
-- Experience with PHP frameworks such as Symfony, Laravel and Zend
-- Experience with PHP build and testing tools such as composer, PHPStan, Codeception and PHP Unit
-- Experience with Python frameworks such as Django and Flask
-- Experience with devops tools including Docker, Jenkins and AWS
-- Experience in client sided frameworks and task runners such as WebPack, NPM and Gulp
+- Experience with PHP frameworks such as Symfony, Laravel, Zend, Lumen
+- Experience with PHP build and testing tools such as composer, PHPStan, Codeception and PHPUnit
+- Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS 
+- Experience with Python frameworks such as Flask, MicroPython
+- Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify
 - Experience with source control systems such as Git, and SVN
-- Fluent Linux command line skills
 - Over a decade of professional web development experience (Almost 2 decades including study of the field)
-- Teacher to over online students (HowToCodeWell YouTube Channel)
+- Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+### 2018 - 2020 | Contractor at Planet Wide City 
+Building the How To Code Well community sites using Symfony, GatsbyJS and React components
+React and Gatsby Components can be found on [NPM](https://www.npmjs.com/org/howtocodewell)
+
 ### 2019 - 2020 | Contractor at Planet Wide City 
 [Planet Wide City](https://www.planetwidecity.com)
 
-PHP Contractor and consultant working on legacy PHP projects using Magento, Docker and Linux
+PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker and Linux
 
 ### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
 [Ecancer.org](http://www.ecancer.org)
@@ -39,7 +42,7 @@ I also developed Docker images that were used to build local, test and productio
 
 I also held classes that teach HTML to the marketing and e-learning departments. 
 
-Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS (Aurora, SQS, Lambda, EC2), Micro Services, Docker, Linux, JavaScript (NodeJS, Vanilla), CSS and HTML
+Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS (Aurora, SQS, Lambda, EC2), Micro Services, Docker, Linux, JavaScript (jQuery, NodeJS, Vanilla), CSS and HTML
 
 ### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
@@ -52,6 +55,8 @@ Building the frontend website in Wordpress and working along side designers.
 Building a mobile app, API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
 
 Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
+[Android App is on the playstore](https://play.google.com/store/apps/details?id=uk.co.kloc.abovetheline)
+
 
 <div style="page-break-after: always;"></div>
 
@@ -63,6 +68,7 @@ Building mobile apps in Javascript for use on Android and iPhone devices.
 Helping the web team upgrade projects to Symfony 3
 
 Daily technology used: JavaScript (AlloyJs) and PHP (Symfony)
+Android apps that I helped build can be found on the [Google Play store](https://play.google.com/store/apps/developer?id=Agrantec+Ltd)
 
 ### 2012 - 2016 | Senior PHP Developer at Agrantec
 Remote Position. Self motivated working at home but within a remote team. Using Slack, Skype, Jira, Trello and Google Hangouts as collaboration tools.  Mobile Development using Appcelerator 
