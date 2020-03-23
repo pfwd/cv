@@ -8,24 +8,29 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 
 # Skills and assets
 - A passion for testing, good practice and clean code
-- Experience with PHP frameworks such as Symfony, Laravel, Zend, Lumen
-- Experience with PHP build and testing tools such as composer, PHPStan, Codeception and PHPUnit
-- Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS 
-- Experience with Python frameworks such as Flask, MicroPython
-- Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify
+- Experience with PHP frameworks such as Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
+- Experience with data storage and queueing systems such as MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
+- Experience with PHP build and testing tools such as Composer, PHPStan, Codeception and PHPUnit
+- Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, NodeJs, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS 
+- Experience with Python frameworks such as Flask, Django and MicroPython
+- Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify and Jenkins
 - Experience with source control systems such as Git, and SVN
 - Over a decade of professional web development experience (Almost 2 decades including study of the field)
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
-### 2018 - 2020 | Contractor at Planet Wide City 
-Building the How To Code Well community sites using Symfony, GatsbyJS and React components
-React and Gatsby Components can be found on [NPM](https://www.npmjs.com/org/howtocodewell)
+### 2019 - 2020 | Torpedo Group
+PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex and Drupal.
 
 ### 2019 - 2020 | Contractor at Planet Wide City 
 [Planet Wide City](https://www.planetwidecity.com)
 
-PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker and Linux
+PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
+The role has been a mix of working on Magento shops, VueJS content management systems and custom APIs
+
+### 2018 - 2020 | How To Code Well
+Building the How To Code Well community sites using Symfony, GatsbyJS and React components
+React and Gatsby Components can be found on [NPM](https://www.npmjs.com/org/howtocodewell)
 
 ### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
 [Ecancer.org](http://www.ecancer.org)
