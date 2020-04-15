@@ -111,16 +111,17 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 <div style="page-break-after: always;"></div>
 
 ### Education
-|      Date       |       Course/Institute                                                      |
-|-------------|-------------------------------------------------------------|
-| 2011        | CEH (Certified Ehtical Hacker)    - Self Study                          |
-| 2011        | LPIC-1 (Linux Professional Certification)   - Self Study                |
-| 2010        | 7 Safe Ethical Hacking                                      |
-| 2009        | Well House Consultants The MySQL Relation Database          |
-| 2009        | Well House Consultants OOP PHP                              |
-| 2005 - 2007 | University of Gloucestshire BSc in Ecommerce and Multimedia |
-| 2002 - 2004 | Bath Spa University HND Business Information Technology     |
-| 2000 - 2002 | Chippenham College Information Communication Technology     |
+
+|  Date       |       Course/Institute                                        |
+|-------------|---------------------------------------------------------------|
+| 2011        | CEH (Certified Ehtical Hacker)    - Self Study                |
+| 2011        | LPIC-1 (Linux Professional Certification)   - Self Study      |
+| 2010        | 7 Safe Ethical Hacking                                        |
+| 2009        | Well House Consultants The MySQL Relation Database            |
+| 2009        | Well House Consultants OOP PHP                                |
+| 2005 - 2007 | University of Gloucestershire BSc in Ecommerce and Multimedia |
+| 2002 - 2004 | Bath Spa University HND Business Information Technology       |
+| 2000 - 2002 | Chippenham College HNC Information Communication Technology   |
 
 
 ## Publications
