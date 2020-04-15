@@ -114,7 +114,7 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 
 |  Date       |       Course/Institute                                        |
 |-------------|---------------------------------------------------------------|
-| 2011        | CEH (Certified Ehtical Hacker)    - Self Study                |
+| 2011        | CEH (Certified Ethical Hacker)    - Self Study                |
 | 2011        | LPIC-1 (Linux Professional Certification)   - Self Study      |
 | 2010        | 7 Safe Ethical Hacking                                        |
 | 2009        | Well House Consultants The MySQL Relation Database            |
