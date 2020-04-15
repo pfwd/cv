@@ -62,9 +62,6 @@ Building a mobile app, API and CMS for Above the Line Security which is used in 
 Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
 [Android App is on the playstore](https://play.google.com/store/apps/details?id=uk.co.kloc.abovetheline)
 
-
-<div style="page-break-after: always;"></div>
-
 ### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
 
@@ -107,8 +104,6 @@ Migrated Redder CMS from CakePHP to Symfony
 Building micro sites and e commerce web systems
 
 Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery)
-
-<div style="page-break-after: always;"></div>
 
 ### Education
 
