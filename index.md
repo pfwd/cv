@@ -2,12 +2,14 @@
 Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.fm)
 
 # Future objectives
+- To become a PHP Certified Engineer
+- Speak more at conferences and user groups
 - To continue learning other web based languages and software design principles
-- Speak at conferences
 - Write a book based on programming
 
 # Skills and assets
 - A passion for testing, good practice and clean code
+- Experience with submitting and reviewing pull requests, code reviews and using deployment pipelines
 - Experience with PHP frameworks such as Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
 - Experience with data storage and queueing systems such as MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
 - Experience with PHP build and testing tools such as Composer, PHPStan, Codeception and PHPUnit
@@ -19,6 +21,10 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+
+### 2020 - 2020 | Raw Net
+PHP Contractor and consultant working on E-Commerce websites using Concrete 5, Symfony, Doctrine, Magento and jQuery.
+
 ### 2019 - 2020 | Torpedo Group
 PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex and Drupal.
 
@@ -107,16 +113,17 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 
 ### Education
 
-|  Date       |       Course/Institute                                        |
-|-------------|---------------------------------------------------------------|
-| 2011        | CEH (Certified Ethical Hacker)    - Self Study                |
-| 2011        | LPIC-1 (Linux Professional Certification)   - Self Study      |
-| 2010        | 7 Safe Ethical Hacking                                        |
-| 2009        | Well House Consultants The MySQL Relation Database            |
-| 2009        | Well House Consultants OOP PHP                                |
-| 2005 - 2007 | University of Gloucestershire BSc in Ecommerce and Multimedia |
-| 2002 - 2004 | Bath Spa University HND Business Information Technology       |
-| 2000 - 2002 | Chippenham College HNC Information Communication Technology   |
+| Date        | Course/Institute                                              | Status               |
+|-------------|---------------------------------------------------------------|----------------------|
+| 2020        | PHP ZCE (Zend Certified Engineer)                             | On Going Study       |
+| 2020        | LPIC-1 (Linux Professional Certification)                     | On Going Study       |
+| 2011        | CEH (Certified Ethical Hacker)                                | Passed Training Days |
+| 2010        | 7 Safe Ethical Hacking                                        | Passed               |
+| 2009        | Well House Consultants The MySQL Relation Database            | Passed               |
+| 2009        | Well House Consultants Object Oriented Programming (OOP) in PHP                                | Passed               |
+| 2005 - 2007 | University of Gloucestershire BSc in Ecommerce and Multimedia | Passed               |
+| 2002 - 2004 | Bath Spa University HND Business Information Technology       | Passed               |
+| 2000 - 2002 | Chippenham College HNC Information Communication Technology   | Passed               |
 
 
 ## Publications
