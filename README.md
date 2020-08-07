@@ -22,7 +22,7 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2020 - 2020 | Raw Net
+### 2020 - Present | Web Development Agency
 PHP Contractor and consultant working on E-Commerce websites using Concrete 5, Symfony, Doctrine, Magento and jQuery.
 
 ### 2019 - 2020 | Torpedo Group
