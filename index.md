@@ -22,11 +22,12 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2020 - Present | Web Development Agency
+### 2020 - 2021 | Contractor at Rawnet
+[Rawnet](https://www.rawnet.com)
 
-PHP Contractor and consultant working on E-Commerce websites using Concrete 5, Symfony, Doctrine, Magento and jQuery.
+PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Concrete 5, Symfony, Doctrine, Elastic Search, Docker, AWS, Magento and jQuery.
 
-### 2019 - 2020 | Torpedo Group
+### 2019 - 2020 | Contractor at Torpedo Group
 [Torpedo Group](https://torpedogroup.com)
 
 PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex and Drupal.
@@ -37,7 +38,7 @@ PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctri
 PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
 The role has been a mix of working on Magento shops, VueJS content management systems and custom APIs
 
-### 2018 - 2020 | How To Code Well
+### 2018 - 2021 | How To Code Well
 Building the How To Code Well community sites using Symfony, GatsbyJS and React components
 React and Gatsby Components can be found on [NPM](https://www.npmjs.com/org/howtocodewell)
 
