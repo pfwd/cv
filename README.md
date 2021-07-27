@@ -1,5 +1,5 @@
 # CV of Peter Fisher BSc MBCS 
-Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.fm)
+Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.fm)
 
 # Future objectives
 - To become a PHP Certified Engineer
@@ -15,9 +15,9 @@ Full Stack Web developer (Freelance/Contractor), author and host of the [HowToCo
 - Experience with PHP build and testing tools such as Composer, PHPStan, Codeception and PHPUnit
 - Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, NodeJs, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS 
 - Experience with Python frameworks such as Flask, Django and MicroPython
-- Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify and Jenkins
+- Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify, k6 and k8
 - Experience with source control systems such as Git, and SVN
-- Over a decade of professional web development experience (Almost 2 decades including study of the field)
+- Over a decade of professional web development experience (Two decades including study of the field)
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
