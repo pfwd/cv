@@ -1,5 +1,5 @@
 # CV of Peter Fisher BSc MBCS 
-Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.fm)
+Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.net)
 
 # Future objectives
 - To become a PHP Certified Engineer
@@ -22,8 +22,14 @@ Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2021 - present | Full Stack Contractor and Consultant
-Improving/rebuilding legacy code for a large team.  Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery.
+### 2021 - Present | Full Stack Contractor
+
+Full stack contractor working on large scale ecommerce websites using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
+
+### 2021 | Contractor at Hargreaves Lansdown
+[Hargreaves Lansdown](https://www.hl.co.uk/)
+
+PHP, JavaScript, CSS Contractor working on the HL systems. Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery. 
 
 ### 2020 - 2021 | Contractor at Rawnet
 [Rawnet](https://www.rawnet.com)
@@ -37,10 +43,10 @@ PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctri
 [Planet Wide City](https://www.planetwidecity.com)
 
 PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
-The role has been a mix of working on Magento shops, VueJS content management systems and custom APIs
+The role has been a mix of working on Magento shops, VueJS based content management systems and custom PHP API's
 
 ### 2018 - 2021 | How To Code Well
-Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, K6, GatsbyJS and React components
+Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, K6, GatsbyJS and React.
 
 ### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
 [Ecancer.org](http://www.ecancer.org)
@@ -144,7 +150,6 @@ I have created video courses for Manning Publications and Packt Publishing
 - [Docker In Motion](http://bit.ly/2vvz2sA)
 
 #### Packt Publications
-- [Hands-on Microservices in Python](https://www.packtpub.com/application-development/hands-microservices-python-video)
 - [Python Clean Coding](https://www.packtpub.com/programming/python-clean-coding-video)
 
 ### Podcast host at How To Code Well
