@@ -22,7 +22,7 @@ Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2021 - Present | Full Stack Contractor
+### 2022 | Full Stack Contractor
 
 Full stack contractor working on large scale ecommerce websites using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
 
@@ -45,8 +45,8 @@ PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctri
 PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
 The role has been a mix of working on Magento shops, VueJS based content management systems and custom PHP API's
 
-### 2018 - 2021 | How To Code Well
-Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, K6, GatsbyJS and React.
+### 2018 - 2022 | How To Code Well
+Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, K6, GatsbyJS and React, Cypress, Jest
 
 ### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
 [Ecancer.org](http://www.ecancer.org)
