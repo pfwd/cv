@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "markdown-pdf": "^10.0.0"
+  },
+  "scripts": {
+    "markdown": "markdown-pdf index.md -o peter_fisher_cv.pdf"
   }
 }
