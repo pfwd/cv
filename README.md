@@ -1,4 +1,4 @@
-# CV of Peter Fisher BSc MBCS 
+# CV of Peter Fisher BSc MBCS
 Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.net)
 
 # Future objectives
@@ -13,7 +13,7 @@ Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCo
 - Experience with PHP frameworks such as Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
 - Experience with data storage and queueing systems such as MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
 - Experience with PHP build and testing tools such as Composer, PHPStan, Codeception and PHPUnit
-- Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, NodeJs, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS 
+- Experience in client sided (Web/Mobile app) frameworks and languages such as Vanilla JavaScript, NodeJs, React, Gatsby, VueJS, jQuery, AlloyJS, Titanium, BootStrap and TailwindCSS
 - Experience with Python frameworks such as Flask, Django and MicroPython
 - Experience with devops tools including Docker, Linux, Jenkins, AWS, Travis, Netlify, k6 and k8
 - Experience with source control systems such as Git, and SVN
@@ -22,16 +22,19 @@ Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2022 | Full Stack Contractor
+### 2022 | PHP Contractor at BJSS (Specsavers)
 
-Full stack contractor working on large scale ecommerce websites using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
+PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, AWS, Jenkins and Docker
 
-### 2021 | Contractor at Hargreaves Lansdown
-[Hargreaves Lansdown](https://www.hl.co.uk/)
+### 2022 | Full Stack Contractor at Rawnet (Hornby Hobbies)
 
-PHP, JavaScript, CSS Contractor working on the HL systems. Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery. 
+Full stack contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
 
-### 2020 - 2021 | Contractor at Rawnet
+### 2021 | Full Stack Contractor at Hargreaves Lansdown
+
+PHP, JavaScript, CSS Contractor working on the [Hargreaves Lansdown](https://www.hl.co.uk/) systems. Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery.
+
+### 2020 - 2021 | Contractor at Rawnet (Hornby Hobbies)
 [Rawnet](https://www.rawnet.com)
 
 PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Concrete 5, Symfony, Doctrine, Elastic Search, Docker, AWS, Magento and jQuery.
@@ -39,7 +42,7 @@ PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.ho
 ### 2019 - 2020 | Contractor at Torpedo Group
 PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex, WordPress, Symfony and Drupal.
 
-### 2019 - 2020 | Contractor at Planet Wide City 
+### 2019 - 2020 | Contractor at Planet Wide City
 [Planet Wide City](https://www.planetwidecity.com)
 
 PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
@@ -48,7 +51,7 @@ The role has been a mix of working on Magento shops, VueJS based content managem
 ### 2018 - 2022 | How To Code Well
 Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, K6, GatsbyJS and React, Cypress, Jest
 
-### 2016 - 2019 | Contractor at The E Cancer Global Foundation 
+### 2016 - 2019 | Contractor at The E Cancer Global Foundation
 [Ecancer.org](http://www.ecancer.org)
 
 PHP Contractor, programming teacher, Software architect
@@ -61,7 +64,7 @@ During this time I was also building micro sites for the cancer research industr
 
 I also developed Docker images that were used to build local, test and production environments.
 
-I also held classes that teach HTML to the marketing and e-learning departments. 
+I also held classes that teach HTML to the marketing and e-learning departments.
 
 Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS (Aurora, SQS, Lambda, EC2), Micro Services, Docker, Linux, JavaScript (jQuery, NodeJS, Vanilla), CSS and HTML
 
@@ -71,7 +74,7 @@ Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception,
 Building the frontend website in Wordpress and working along side designers.
 
 ### 2016 - 2018 | Contractor at Kloc Digital Solutions
-[Kloc Digital Solutions](https://kloc.co.uk) 
+[Kloc Digital Solutions](https://kloc.co.uk)
 
 Building a mobile app, API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
 
@@ -81,7 +84,7 @@ Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Androi
 ### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
 
-Building mobile apps in Javascript for use on Android and iPhone devices. 
+Building mobile apps in Javascript for use on Android and iPhone devices.
 
 Helping the web team upgrade projects to Symfony 3
 
@@ -138,13 +141,15 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 
 ## Publications
 
-### Talks I have given at PHP South West
+### Talks I have given
+- [Coding with confidence using PHPCS](http://peterfisher.me.uk/talks/code-with-confidence-using-phpcs)  - Given at PHPMinds
+- [Coding with confidence using PHPStan](http://peterfisher.me.uk/talks/code-with-confidence-using-phpstan)  - Given at PHP South West, Symfony User Group Aveiro, PHPBenelux, North West Drupal User Group
 - [Using a framework or Not](https://youtu.be/T8R3YTrqt6U)  - Given at PHP South West, PHP South Wales
 - [How to put your Docker image on a diet](https://youtu.be/uiABt9axPNo)  - Given at PHP South West
 - [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)  - Given at PHP South West
 
 ### Video course instructor
-I have created video courses for Manning Publications and Packt Publishing 
+I have created video courses for Manning Publications and Packt Publishing
 
 #### Manning Publications
 - [Docker In Motion](http://bit.ly/2vvz2sA)

@@ -22,16 +22,19 @@ Full Stack Web Developer (Freelance/Contractor), author and host of the [HowToCo
 
 ## Work history
 
-### 2022 | Full Stack Contractor
+### 2022 | PHP Contractor at BJSS (Specsavers)
 
-Full stack contractor working on large scale ecommerce websites using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
+PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, AWS, Jenkins and Docker
 
-### 2021 | Contractor at Hargreaves Lansdown
-[Hargreaves Lansdown](https://www.hl.co.uk/)
+### 2022 | Full Stack Contractor at Rawnet (Hornby Hobbies)
 
-PHP, JavaScript, CSS Contractor working on the HL systems. Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery. 
+Full stack contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
 
-### 2020 - 2021 | Contractor at Rawnet
+### 2021 | Full Stack Contractor at Hargreaves Lansdown
+
+PHP, JavaScript, CSS Contractor working on the [Hargreaves Lansdown](https://www.hl.co.uk/) systems. Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery. 
+
+### 2020 - 2021 | Contractor at Rawnet (Hornby Hobbies)
 [Rawnet](https://www.rawnet.com)
 
 PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Concrete 5, Symfony, Doctrine, Elastic Search, Docker, AWS, Magento and jQuery.
@@ -138,7 +141,9 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 
 ## Publications
 
-### Talks I have given at PHP South West
+### Talks I have given
+- [Coding with confidence using PHPCS](http://peterfisher.me.uk/talks/code-with-confidence-using-phpcs)  - Given at PHPMinds
+- [Coding with confidence using PHPStan](http://peterfisher.me.uk/talks/code-with-confidence-using-phpstan)  - Given at PHP South West, Symfony User Group Aveiro, PHPBenelux, North West Drupal User Group
 - [Using a framework or Not](https://youtu.be/T8R3YTrqt6U)  - Given at PHP South West, PHP South Wales
 - [How to put your Docker image on a diet](https://youtu.be/uiABt9axPNo)  - Given at PHP South West
 - [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)  - Given at PHP South West
