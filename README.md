@@ -23,17 +23,19 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 
 ### 2022 - 2023 | PHP Contractor at BJSS (Specsavers)
 
-Contract PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, Symfony, API, AWS, jQuery, Jenkins and Docker
+Contract PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, Symfony, APIs, Angular, AWS, jQuery, Jenkins and Docker
 
-In a team that upgraded PHP versions, upgraded Symfony, upgraded Drupal modules and helped maintain many code bases and APIs.
+In a team that upgraded PHP versions, upgraded Symfony, upgraded Drupal modules and helped maintain many code bases, APIs and Angular apps.
 
 ### 2022 | Full Stack Contractor at Rawnet (Hornby Hobbies)
 
 Full stack contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
 
-Migrated data and features from Magento to Concrete 5 and Symfony estates including APi's and bulk data processes.
+Migrated data and features from Magento to Concrete 5 and Symfony estates including APIs (REST and SOAP) and bulk data processes.
 
-### 2021 | Full Stack Contractor at Hargreaves Lansdown 
+Building systems that ingestion APIs and working with external teams to improve API signatures.
+
+### 2021 | Full Stack Contractor at Hargreaves Lansdown
 
 [Hargreaves Lansdown](https://www.hl.co.uk/)
 
@@ -62,7 +64,7 @@ PHP Contractor, programming teacher, Software architect
 
 Architecting and developing a full rebuild of the e-cancer web platform including a CMS, API, website and e-learning system
 
-Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS (Aurora, SQS, Lambda, EC2), Micro Services, Docker, Linux, JavaScript (jQuery, NodeJS, Vanilla), CSS and HTML
+Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS, Micro Services, Docker, Linux, JavaScript, CSS and HTML
 
 ### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
 [FS4S](http://www.fs4s.co.uk)
@@ -72,7 +74,7 @@ Building the frontend website in WordPress and working alongside designers.
 ### 2016 - 2018 | Contractor at Kloc Digital Solutions
 [Kloc Digital Solutions](https://kloc.co.uk)
 
-Building a mobile app, API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
+Building a mobile app alongside an API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
 
 Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
 [Android App is on the playstore](https://play.google.com/store/apps/details?id=uk.co.kloc.abovetheline)
@@ -98,7 +100,7 @@ Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
 Writing Technical specifications and conducting project analysis for control panel development.
 
-Acting as project lead for small to medium sized projects. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
+Acting as project lead for small to medium-sized projects. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
 
 Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
@@ -107,7 +109,7 @@ Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
 Lead programmer working with freelancers and other developers to create a video upload and private/public voting sites. 
 
-Helped organise freelancers to meet tight deadlines. 
+Helped organise freelancers to meet tight deadlines
 
 Using FFMPEG on a Centos/Plesk server to encode many different video formats to flv. Automated the validation of each video including duration and file size checks. 
 
@@ -157,7 +159,7 @@ Interviewing web developers and industry leaders on a [video and audio podcast](
 ## Other Hobby's and interests
 - Running, cycling and weight lifting
 - Warhammer
-- Dogs - [I have two English Springer Spaniels](https://www.instagram.com/adventures_of_murphy_and_goose/) 
+- Dogs - [I have two English Springer Spaniels](https://www.instagram.com/adventures_of_murphy_and_goose/)
 
 ## Contact
 - Web: [peterfisher.me.uk](peterfisher.me.uk)
