@@ -1,17 +1,12 @@
 # CV of Peter Fisher BSc MBCS
 Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.net)
 
-# Future objectives
-- To become a PHP Certified Engineer
-- Speak more at conferences and user groups
-- Write a book based on programming
-
 # Skills and assets
-- Experience with REST, SOAP, GraphQL, OpenAPI, JSONServer, and Swagger
 - Experience with Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
+- Experience with REST, SOAP, GraphQL, OpenAPI, API Platform, and Swagger
 - Experience with MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
 - Experience with Composer, NPM, Cypress, Jest, PHPStan, PHP_CodeSniffer, PHPMD, Codeception and PHPUnit
-- Experience with JavaScript, NodeJs, React, Gatsby, VueJS, jQuery, AlloyJS, Angular, Titanium, BootStrap, HTML and TailwindCSS
+- Experience with JavaScript, NodeJs, React, Express, Gatsby, VueJS, jQuery, AlloyJS, Angular, Titanium, BootStrap, HTML, Twig and Tailwind CSS
 - Experience with Flask, Django and MicroPython and other Python tools
 - Experience with Docker, Linux, Jenkins, AWS, Travis, Netlify, and Kubernetes
 - A passion for testing code (TDD, Unit, Functional), good practice and clean code
@@ -25,7 +20,7 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 
 Contract PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, Symfony, APIs, Angular, AWS, jQuery, Jenkins and Docker
 
-In a team that upgraded PHP versions, upgraded Symfony, upgraded Drupal modules and helped maintain many code bases, APIs and Angular apps.
+Upgraded Symfony PHP framework, upgraded PHP major versions, upgraded Drupal modules, upgraded Angular, jQuery and other JavaScript frontend apps.
 
 ### 2022 | Full Stack Contractor at Rawnet (Hornby Hobbies)
 
@@ -39,7 +34,7 @@ Building systems that ingestion APIs and working with external teams to improve 
 
 [Hargreaves Lansdown](https://www.hl.co.uk/)
 
-Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery to improve current code base.
+Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery to improve current code base and frontend.
 
 ### 2020 - 2021 | Contractor at Rawnet (Hornby Hobbies)
 [Rawnet](https://www.rawnet.com)
@@ -47,17 +42,17 @@ Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery to improve curr
 PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Concrete 5, Symfony, Doctrine, Elastic Search, Docker, AWS, Magento and jQuery.
 
 ### 2019 - 2020 | PHP Contractor at Torpedo Group
-PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex, WordPress, Symfony and Drupal.
+PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex, WordPress, Symfony, Laravel and Drupal.
 
 ### 2019 - 2020 | Full Stack Contractor at Planet Wide City
 [Planet Wide City](https://www.planetwidecity.com)
 
-PHP Contractor and consultant working on legacy PHP projects using Magento, jQuery Docker, Linux and VueJS.
+PHP Contractor and consultant working on legacy PHP projects using Magento, Laravel, React, jQuery, Docker, Linux and VueJS.
 
 ### 2018 - 2023 | How To Code Well
-Building the [How To Code Well](https://howotocodewell.net) community sites using Symfony, AWS, Kubernetes, Docker, GatsbyJS and React, Cypress, Jest
+Building the [How To Code Well](https://howotocodewell.net) community sites using Laravel (Lumen), Tailwind, Symfony, AWS, Kubernetes, Docker, GatsbyJS and React, Cypress, Jest
 
-### 2016 - 2019 | Contractor at The E Cancer Global Foundation
+### 2016 - 2019 | Contractor at The E-Cancer Global Foundation
 [Ecancer.org](http://www.ecancer.org)
 
 PHP Contractor, programming teacher, Software architect
@@ -84,10 +79,9 @@ Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Androi
 
 Building mobile apps in Javascript for use on Android and iPhone devices.
 
-Helping the web team upgrade projects to Symfony 3
+Helping the web team upgrade Symfony projects
 
 Daily technology used: JavaScript (AlloyJs) and PHP (Symfony)
-Android apps that I helped build can be found on the [Google Play store](https://play.google.com/store/apps/developer?id=Agrantec+Ltd)
 
 ### 2012 - 2016 | Senior PHP Developer at Agrantec
 Remote Position. Self-motivated working at home but within a remote team. Using Slack, Skype, Jira, Trello and Google Hangouts as collaboration tools. Mobile Development using Appcelerator 
@@ -126,8 +120,6 @@ Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery
 
 | Date        | Course/Institute                                              | Status               |
 |-------------|---------------------------------------------------------------|----------------------|
-| 2020        | PHP ZCE (Zend Certified Engineer)                             | On Going Study       |
-| 2020        | LPIC-1 (Linux Professional Certification)                     | On Going Study       |
 | 2011        | CEH (Certified Ethical Hacker)                                | Passed Training Days |
 | 2010        | 7 Safe Ethical Hacking                                        | Passed               |
 | 2009        | Well House Consultants The MySQL Relation Database            | Passed               |
@@ -166,3 +158,5 @@ Interviewing web developers and industry leaders on a [video and audio podcast](
 - Twitter: [pfwd](http://twitter.com/pfwd)
 - Linkedin: [peterrfisher](http://linkedin.com/in/peterrfisher/)
 - GitHub: [pfwd](http://github.com/pfwd)
+- Phone: 07793545054
+- Email: [hello@websomatic.co.uk](mailto:hello@websomatic.co.uk)
