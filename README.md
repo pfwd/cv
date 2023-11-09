@@ -95,7 +95,7 @@ Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
 Writing Technical specifications and conducting project analysis for control panel development.
 
-Acting as project lead for small to medium-sized projects. Being a lesion for other departments such as the User Interface team and Quality Assurance team.
+Acting as project lead for small to medium-sized projects. Working with with other User Interface and Quality Assurance teams.
 
 Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
