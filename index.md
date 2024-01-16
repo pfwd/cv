@@ -1,5 +1,5 @@
 # CV of Peter Fisher BSc MBCS
-Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and [podcast](https://howtocodewell.net)
+Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and podcast.
 
 # Skills and assets
 - Experience with Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
@@ -9,13 +9,17 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 - Experience with JavaScript, NodeJs, React, Express, Gatsby, VueJS, jQuery, AlloyJS, Angular, Titanium, BootStrap, HTML, Twig and Tailwind CSS
 - Experience with Flask, Django and MicroPython and other Python tools
 - Experience with Docker, Linux, Jenkins, AWS, Travis, Netlify, and Kubernetes
-- Expericence with Figma, Miro, Jira, Confluence, MailGun, DataDog and Sentry
+- Experience with Figma, Miro, Jira, Confluence, MailGun, DataDog and Sentry
 - A passion for testing code (TDD, Unit, Functional), good practice and clean code
 - Lots of experience upgrading, maintaining and migrating legacy code bases. EG Symfony 3.x to 6 or Magento to Symfony.
 - Over a decade of professional web development experience (Two decades including study of the field)
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+
+### 2023 - 2024 | PHP Contractor at Space48
+
+Contract PHP Developer working with Symfony, APIs, jQuery, Bulma, Docker, Warden and PHP to improve existing codebase.
 
 ### 2022 - 2023 | PHP Contractor at BJSS (Specsavers)
 
@@ -70,10 +74,7 @@ Building the frontend website in WordPress and working alongside designers.
 ### 2016 - 2018 | Contractor at Kloc Digital Solutions
 [Kloc Digital Solutions](https://kloc.co.uk)
 
-Building a mobile app alongside an API and CMS for Above the Line Security which is used in connection with Disney, Pixar and other media companies. Helped build the CMS and API in Laravel. The mobile app was developed using in JavaScript (AlloyJS) and complied down to native Android and iPhone builds.
-
-Daily technology used: PHP (Laravel), JavaScript (Appcelerator, AlloyJS), Android, iOS
-[Android App is on the playstore](https://play.google.com/store/apps/details?id=uk.co.kloc.abovetheline)
+Mobile app development iOS and Android, PHP (Laravel), JavaScript
 
 ### 2016 - 2017 | Contractor at Agrantec
 [Agrantec](https://agrantec.com)
@@ -95,7 +96,7 @@ Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
 
 Writing Technical specifications and conducting project analysis for control panel development.
 
-Acting as project lead for small to medium-sized projects. Working with with other User Interface and Quality Assurance teams.
+Acting as project lead for small to medium-sized projects. Working with with User Interface and Quality Assurance teams.
 
 Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
