@@ -109,8 +109,6 @@ Daily technology used: PHP (Zend) and JavaScript (jQuery)
 
 Lead programmer working with freelancers and other developers to create a video upload and private/public voting sites.
 
-Helped organise freelancers to meet tight deadlines
-
 Using FFMPEG on a Centos/Plesk server to encode many different video formats to flv. Automated the validation of each video including duration and file size checks.
 
 Migrated Redder CMS from CakePHP to Symfony
@@ -118,9 +116,7 @@ Migrated Redder CMS from CakePHP to Symfony
 ### 2007 - 2008 | Junior Developer at Redder
 [Redder](https://redder.space)
 
-Building microsites and e-commerce web systems
-
-Daily technology used: PHP (CakePHP and Custom framework) and JavaScript (jQuery)
+Building microsites and e-commerce web systems PHP (CakePHP and Custom framework) and JavaScript (jQuery)
 
 ### Education
 
