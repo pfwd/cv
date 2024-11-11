@@ -23,7 +23,7 @@ Contract PHP Developer working with Symfony and GraphQL.
 
 ### 2023 - 2024 | PHP Contractor at Space48
 
-Contract PHP Developer working with Symfony, APIs, jQuery, Bulma, Docker, Warden and PHP to improve existing codebase.
+Contract PHP Developer working with Symfony, APIs, jQuery, Bulma, Docker, Warden and PHP to maintain and improve existing codebase.
 
 ### 2022 - 2023 | PHP Contractor at BJSS (Specsavers)
 
