@@ -11,11 +11,15 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 - Experience with Docker, Linux, Jenkins, AWS, Travis, Netlify, and Kubernetes
 - Experience with Figma, Miro, Jira, Confluence, MailGun, DataDog and Sentry
 - A passion for testing code (TDD, Unit, Functional), good practice and clean code
-- Lots of experience upgrading, maintaining and migrating legacy code bases. EG Symfony 3.x to 6 or Magento to Symfony.
+- Lots of experience upgrading, maintaining and migrating legacy code bases. EG Symfony 3.x to 7 or Magento to Symfony.
 - Over a decade of professional web development experience (Two decades including study of the field)
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+
+### 2024 | PHP Contractor at Extreme Reach
+
+Contract PHP Developer working with Symfony and GraphQL.
 
 ### 2023 - 2024 | PHP Contractor at Space48
 
@@ -160,3 +164,4 @@ Interviewing web developers and industry leaders on a [video and audio podcast](
 - Twitter: [pfwd](http://twitter.com/pfwd)
 - Linkedin: [peterrfisher](http://linkedin.com/in/peterrfisher/)
 - GitHub: [pfwd](http://github.com/pfwd)
+- Phone: 07793545054
