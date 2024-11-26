@@ -1,3 +1,9 @@
+# Install and usage
+- See [install docs](./INSTALL.md)
+- See [usage docs](./USAGE.md)
+
+---
+
 # CV of Peter Fisher BSc MBCS
 Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and podcast.
 
