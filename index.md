@@ -19,7 +19,7 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 
 ### 2024 | Fullstack Contractor at Duality Studio
 
-Contract PHP Developer working with Laravel 5 and React.
+Contract Fullstack Developer working with Laravel 5 and React.
 
 ### 2024 | PHP Contractor at Extreme Reach
 
