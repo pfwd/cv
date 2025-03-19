@@ -1,3 +1,9 @@
+# Install and usage
+- See [install docs](./INSTALL.md)
+- See [usage docs](./USAGE.md)
+
+---
+
 # CV of Peter Fisher BSc MBCS
 Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and podcast.
 
@@ -16,6 +22,10 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 - Teacher to online students (HowToCodeWell YouTube Channel)
 
 ## Work history
+
+### 2024 | Laravel Developer working with Kato
+
+Contract Laravel Developer working with Laravel 12, React and Stripe
 
 ### 2024 | Fullstack Contractor at Duality Studio
 
@@ -164,4 +174,3 @@ Interviewing web developers and industry leaders on a [video and audio podcast](
 - Twitter: [pfwd](http://twitter.com/pfwd)
 - Linkedin: [peterrfisher](http://linkedin.com/in/peterrfisher/)
 - GitHub: [pfwd](http://github.com/pfwd)
-- Phone: 07793545054

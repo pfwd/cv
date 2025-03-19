@@ -23,6 +23,10 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 
 ## Work history
 
+### 2024 | Laravel Developer working with Kato
+
+Contract Laravel Developer working with Laravel 12, React and Stripe
+
 ### 2024 | Fullstack Contractor at Duality Studio
 
 Contract Fullstack Developer working with Laravel 5 and React.
