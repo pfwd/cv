@@ -1,13 +1,8 @@
-# Install and usage
-- See [install docs](./INSTALL.md)
-- See [usage docs](./USAGE.md)
-
----
-
 # CV of Peter Fisher BSc MBCS
 Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and podcast.
 
 # Skills and assets
+- Code archaeologist with experience replacing technical debt and improving legacy systems.
 - Experience with Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
 - Experience with REST, SOAP, GraphQL, OpenAPI, API Platform, and Swagger
 - Experience with MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
@@ -23,21 +18,29 @@ Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](ht
 
 ## Work history
 
-### 2024 | Laravel Developer working with Kato
+### 2025 | Laravel Developer working with Kato
 
 Contract Laravel Developer working with Laravel 12, React and Stripe
+
+Created a subscription platform with Stripe, Laravel and Inertia
 
 ### 2024 | Fullstack Contractor at Duality Studio
 
 Contract Fullstack Developer working with Laravel 5 and React.
 
+Fixing and improving legacy code base
+
 ### 2024 | PHP Contractor at Extreme Reach
 
 Contract PHP Developer working with Symfony and GraphQL.
 
+Adding to an existing GraphQL code base using Symfony.
+
 ### 2023 - 2024 | PHP Contractor at Space48
 
 Contract PHP Developer working with Symfony, APIs, jQuery, Bulma, Docker, Warden and PHP to improve existing codebase.
+
+Removing technical debt, adding new features and building platform to refined requirements.
 
 ### 2022 - 2023 | PHP Contractor at BJSS (Specsavers)
 
@@ -160,13 +163,17 @@ I have created video courses for Manning Publications and Packt Publishing
 #### Manning Publications
 - [Docker In Motion](http://bit.ly/2vvz2sA)
 
-
 ### Podcast host at How To Code Well
 Interviewing web developers and industry leaders on a [video and audio podcast](https://howtocodewell.net)
 
+### Other skills
+- Orange belt in Karate
+- Silver medalist in Karate Kata (Regional)
+- Training to be a Karate Senpai and teaching white belts and beginners
+
 ## Other Hobby's and interests
-- Running, cycling and weight lifting
-- Warhammer
+- Running, Karate and weight lifting
+- Warhammer, MTG and board games
 - Dogs - [I have two English Springer Spaniels](https://www.instagram.com/adventures_of_murphy_and_goose/)
 
 ## Contact
