@@ -1,183 +1,118 @@
-# CV of Peter Fisher BSc MBCS
-Full Stack Web Developer (Contractor), author and host of the [HowToCodeWell](https://www.youtube.com/howtocodewell) YouTube channel and podcast.
+# Peter Fisher BSc MBCS
+**Contract PHP Developer | 24+ Years Experience | Symfony Specialist | Legacy Systems Moderniser**
 
-# Skills and assets
-- Code archaeologist with experience replacing technical debt and improving legacy systems.
-- Experience with Symfony, Laravel, Zend, Lumen, Silex, Magento, WordPress and Drupal
-- Experience with REST, SOAP, GraphQL, OpenAPI, API Platform, and Swagger
-- Experience with MySQL, Postgres, DynamoDB, MongoDB, CouchDB, SQLlite, RabbitMQ and SQS
-- Experience with Composer, NPM, Cypress, Jest, PHPStan, PHP_CodeSniffer, PHPMD, Codeception and PHPUnit
-- Experience with JavaScript, NodeJs, React, Express, Gatsby, VueJS, jQuery, AlloyJS, Angular, Titanium, BootStrap, HTML, Twig and Tailwind CSS
-- Experience with Flask, Django and MicroPython and other Python tools
-- Experience with Docker, Linux, Jenkins, AWS, Travis, Netlify, and Kubernetes
-- Experience with Figma, Miro, Jira, Confluence, MailGun, DataDog and Sentry
-- A passion for testing code (TDD, Unit, Functional), good practice and clean code
-- Lots of experience upgrading, maintaining and migrating legacy code bases. EG Symfony 3.x to 7 or Magento to Symfony.
-- Over a decade of professional web development experience (Two decades including study of the field)
-- Teacher to online students (HowToCodeWell YouTube Channel)
+Full-stack web developer and educator with over two decades of hands-on experience delivering scalable, secure, and maintainable web applications. I specialise in modernising legacy PHP systems and building clean, testable codebases using Symfony and Laravel. I’m also the creator of the [HowToCodeWell](https://youtube.com/howtocodewell) YouTube channel and podcast.
 
-## Work history
+---
 
-### 2025 | Laravel Developer working with Kato
+## 🔧 Core Skills
 
-Contract Laravel Developer working with Laravel 12, React and Stripe
+- **Frameworks:** Symfony (2–7), Laravel, Yii, Zend, Silex, Lumen, Concrete5, Magento, WordPress, Drupal
+- **API Development:** REST, GraphQL, SOAP, OpenAPI, API Platform, Swagger
+- **Databases & Queues:** MySQL, PostgreSQL, MongoDB, DynamoDB, CouchDB, SQLite, RabbitMQ, AWS SQS
+- **Testing & QA:** PHPUnit, Codeception, PHPStan, PHPCS, PHPMD, Cypress, Jest, TDD/BDD
+- **Frontend:** JavaScript (React, Vue, Angular, jQuery), HTML5, Tailwind, Twig, Bootstrap, Sass, Gulp
+- **DevOps & Tools:** Docker, AWS, Kubernetes, Jenkins, GitHub Actions, Travis, Netlify, Linux
+- **Project/Team Tools:** Jira, Confluence, Miro, Figma, Mailgun, DataDog, Sentry
+- **Soft Skills:** Strong communicator, mentor, YouTuber, clean coder, confident in complex migrations
 
-Created a subscription platform with Stripe, Laravel and Inertia
+---
 
-### 2024 | Fullstack Contractor at Duality Studio
+## 💼 Selected Contract Experience
 
-Contract Fullstack Developer working with Laravel 5 and React.
+### **2025 – Laravel Developer @ Kato**
+- Built Stripe-powered subscription platform using Laravel 12, Inertia, and React.
 
-Fixing and improving legacy code base
+### **2024 – Fullstack Developer @ Duality Studio**
+- Maintained and improved legacy Laravel 5 + React systems.
 
-### 2024 | PHP Contractor at Extreme Reach
+### **2024 – PHP Developer @ Extreme Reach**
+- Extended Symfony-based GraphQL API integrations.
 
-Contract PHP Developer working with Symfony and GraphQL.
+### **2023–2024 – PHP Developer @ Space48**
+- Symfony, jQuery, Docker, Bulma.
+- Reduced technical debt and added features to a legacy platform.
 
-Adding to an existing GraphQL code base using Symfony.
+### **2022–2023 – PHP Developer @ BJSS / Specsavers**
+- Upgraded Symfony (3.4 → 5.4), PHP (7.4 → 8.2), Angular, Drupal modules.
+- Delivered sprint-based work in a cross-functional team (Jira, Miro, Confluence).
 
-### 2023 - 2024 | PHP Contractor at Space48
+### **2022 – Full Stack Dev @ Rawnet (Hornby Hobbies)**
+- Migrated APIs and data from Magento to Symfony + Concrete5.
+- Built bulk data pipelines (REST/SOAP) and optimised API signatures.
 
-Contract PHP Developer working with Symfony, APIs, jQuery, Bulma, Docker, Warden and PHP to improve existing codebase.
+### **2021 – Frontend Dev @ Hargreaves Lansdown**
+- UI dev in Sass, Twig, Silex, Symfony, based on Figma designs.
 
-Removing technical debt, adding new features and building platform to refined requirements.
+### **2020–2021 – PHP Developer @ Rawnet**
+- E-commerce development with Concrete5, Symfony, AWS, Docker.
 
-### 2022 - 2023 | PHP Contractor at BJSS (Specsavers)
+### **2019–2020 – Contractor @ Torpedo Group & Planet Wide City**
+- Legacy upgrades: Silex, Doctrine, Laravel, React, Vue, Docker.
+- CMS and storefront migrations.
 
-Contract PHP Developer working on the [Specsavers websites](https://specsavers.co.uk) using Drupal, Symfony, APIs, Angular, AWS, jQuery, Jenkins and Docker. Miro, Jira and Confluence was used to plan and track sprints.
+### **2018–Present – Creator @ How To Code Well**
+- Built [howtocodewell.net](https://howtocodewell.net) with Laravel, Symfony, Tailwind, Docker, AWS, React.
+- Produced tutorials and tech interviews on YouTube & podcast.
 
-Upgraded Symfony PHP framework from 3.4 to 5.4, upgraded PHP from 7.4 to 8.2, upgraded various contrib and custom Drupal modules, upgraded Angular apps and upgraded jQuery.
+### **2016–2019 – Architect & Dev @ E-Cancer Global Foundation**
+- Rebuilt entire platform (CMS, API, LMS) using Symfony, Laravel, AWS, Docker.
+- Delivered architecture and dev for content and education systems.
 
-### 2022 | Full Stack Contractor at Rawnet (Hornby Hobbies)
+---
 
-Full stack contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Symfony, Concrete 5, Elastic search, AWS, Docker and jQuery
+## 🕰️ Earlier Experience (2007–2016)
 
-Migrated data and features from Magento to Concrete 5 and Symfony estates including APIs (REST and SOAP) with bulk data processes.
+### 2012–2016 | Senior PHP Developer – Agrantec (Remote)
+Developed food traceability systems using Symfony 2, AWS, and DynamoDB. Built and maintained web and mobile features within a fully remote team. Developed and maintained the API and frontend for [sortedfood.com](https://sortedfood.com).
 
-Building APIs and working with external teams to improve API signatures.
+### 2010–2012 | Senior PHP Developer – Fasthosts
+Delivered features for internal control panel systems. Worked closely with QA and UI teams. Technologies included Zend Framework, Symfony, and jQuery.
 
-### 2021 | Full Stack Contractor at Hargreaves Lansdown
+### 2007–2010 | Junior Developer – Redder
+Built microsites and e-commerce systems. Gained foundational experience with PHP, JavaScript, and CMS development in a fast-paced agency setting.
 
-[Hargreaves Lansdown](https://www.hl.co.uk/)
+---
 
-Using Sass, Gulp, Silex, Symfony, Codeception, Pimple and jQuery to improve current frontend based on Figma designs.
+## 🎤 Talks & Publications
 
-### 2020 - 2021 | Contractor at Rawnet (Hornby Hobbies)
-[Rawnet](https://www.rawnet.com)
+- **Courses:** _Docker in Motion_ (Manning), _Laravel Courses_ (Packt)
+- **Talks Given:**
+  - “Coding with Confidence using PHPCS” (PHP London, Frankfurt)
+  - “Coding with Confidence using PHPStan” (Symfony UG Aveiro, PHPBenelux)
+  - “Using a Framework or Not” (PHP South West, South Wales)
+  - “How to Put Your Docker Image on a Diet”
+  - “Software Complexities”
+- **Code Mentor and teacher** [HowToCodeWell](https://howtocodewell.net) – Web development tutorials and courses.
 
-PHP Contractor working on the [Hornby Hobbies E-Commerce websites](https://uk.hornby.com) using Concrete 5, Symfony, Doctrine, Elastic Search, Docker, AWS, Magento and jQuery.
+---
 
-### 2019 - 2020 | PHP Contractor at Torpedo Group
-PHP Contractor and consultant working on legacy PHP projects using VueJS, Doctrine, Silex, WordPress, Symfony, Laravel and Drupal.
+## 📚 Education & Certification
 
-### 2019 - 2020 | Full Stack Contractor at Planet Wide City
-[Planet Wide City](https://www.planetwidecity.com)
+| Year       | Course/Institution                                             | Status     |
+|------------|----------------------------------------------------------------|------------|
+| 2011       | CEH (Certified Ethical Hacker)                                 | Trained    |
+| 2010       | 7Safe Ethical Hacking                                          | Passed     |
+| 2009       | Well House – OOP PHP, MySQL                                    | Passed     |
+| 2005–2007  | BSc Ecommerce & Multimedia – Univ. of Gloucestershire          | Graduated  |
+| 2002–2004  | HND Business IT – Bath Spa University                          | Graduated  |
+| 2000–2002  | HNC ICT – Chippenham College                                   | Graduated  |
 
-PHP Contractor and consultant working on legacy PHP projects using Magento, Laravel, React, jQuery, Docker, Linux and VueJS.
+---
 
-### 2018 - 2023 | How To Code Well
-Building the [How To Code Well](https://howotocodewell.net) community sites using Laravel (Lumen), Tailwind, Symfony, AWS, Kubernetes, Docker, GatsbyJS and React, Cypress, Jest and WordPress.
+## 🥋 Personal & Other Skills
 
-### 2016 - 2019 | Contractor at The E-Cancer Global Foundation
-[Ecancer.org](http://www.ecancer.org)
+- Karate green belt, silver medal in kata (regional)
+- Assistant karate instructor for white belts
+- Board games, Warhammer, MTG
+- Springer spaniel owner – [@adventures_of_murphy_and_goose](https://www.instagram.com/adventures_of_murphy_and_goose/)
 
-PHP Contractor, programming teacher, Software architect
+---
 
-Architecting and developing a full rebuild of the e-cancer web platform including a CMS, API, website and e-learning system
+## 🔗 Contact
 
-Daily technology used: PHP (Symfony, Laravel, Concrete5, WordPress, Codeception, PHPUnit), MYSQL, AWS, Micro Services, Docker, Linux, JavaScript, CSS and HTML
-
-### 2017 - 2018 | Contractor at FS4S (Financial Services For Schools)
-[FS4S](http://www.fs4s.co.uk)
-
-Building the frontend website in WordPress and working alongside designers.
-
-### 2016 - 2018 | Contractor at Kloc Digital Solutions
-[Kloc Digital Solutions](https://kloc.co.uk)
-
-Mobile app development iOS and Android, PHP (Laravel), JavaScript
-
-### 2016 - 2017 | Contractor at Agrantec
-[Agrantec](https://agrantec.com)
-
-Building mobile apps in Javascript for use on Android and iPhone devices.
-
-Helping the web team upgrade Symfony projects
-
-Daily technology used: JavaScript (AlloyJs) and PHP (Symfony)
-
-### 2012 - 2016 | Senior PHP Developer at Agrantec
-Remote Position. Self-motivated working at home but within a remote team. Using Slack, Skype, Jira, Trello and Google Hangouts as collaboration tools. Mobile Development using Appcelerator
-Building Food Traceability systems using DynamoDB, AWS, Linux, Javascript and PHP (Symfony 2 and composer)
-
-Built [sortedfood.com](http://sortedfood.com) (Both frontend and API)
-
-### 2010 - 2012 | Senior PHP Developer at Fasthosts
-[Fasthosts](https://www.fasthosts.co.uk)
-
-Writing Technical specifications and conducting project analysis for control panel development.
-
-Acting as project lead for small to medium-sized projects. Working with with User Interface and Quality Assurance teams.
-
-Daily technology used: PHP (Zend) and JavaScript (jQuery)
-
-### 2008 - 2010 |  Web Applications Developer at Redder
-[Redder](https://redder.space)
-
-Lead programmer working with freelancers and other developers to create a video upload and private/public voting sites.
-
-Using FFMPEG on a Centos/Plesk server to encode many different video formats to flv. Automated the validation of each video including duration and file size checks.
-
-Migrated Redder CMS from CakePHP to Symfony
-
-### 2007 - 2008 | Junior Developer at Redder
-[Redder](https://redder.space)
-
-Building microsites and e-commerce web systems PHP (CakePHP and Custom framework) and JavaScript (jQuery)
-
-### Education
-
-| Date        | Course/Institute                                              | Status               |
-|-------------|---------------------------------------------------------------|----------------------|
-| 2011        | CEH (Certified Ethical Hacker)                                | Passed Training Days |
-| 2010        | 7 Safe Ethical Hacking                                        | Passed               |
-| 2009        | Well House Consultants The MySQL Relation Database            | Passed               |
-| 2009        | Well House Consultants Object Oriented Programming (OOP) in PHP                                | Passed               |
-| 2005 - 2007 | University of Gloucestershire BSc in Ecommerce and Multimedia | Passed               |
-| 2002 - 2004 | Bath Spa University HND Business Information Technology       | Passed               |
-| 2000 - 2002 | Chippenham College HNC Information Communication Technology   | Passed               |
-
-
-## Publications
-
-### Talks I have given
-- [Coding with confidence using PHPCS](http://peterfisher.me.uk/talks/code-with-confidence-using-phpcs)  - Given at PHPMinds, PHP London, PHP User group Frankfurt
-- [Coding with confidence using PHPStan](http://peterfisher.me.uk/talks/code-with-confidence-using-phpstan)  - Given at PHP South West, Symfony User Group Aveiro, PHPBenelux, North West Drupal User Group
-- [Using a framework or Not](https://youtu.be/T8R3YTrqt6U)  - Given at PHP South West, PHP South Wales
-- [How to put your Docker image on a diet](https://youtu.be/uiABt9axPNo)  - Given at PHP South West
-- [Software Complexities](https://youtu.be/ZQ6AkyvEaHE)  - Given at PHP South West
-
-### Video course instructor
-I have created video courses for Manning Publications and Packt Publishing
-
-#### Manning Publications
-- [Docker In Motion](http://bit.ly/2vvz2sA)
-
-### Podcast host at How To Code Well
-Interviewing web developers and industry leaders on a [video and audio podcast](https://howtocodewell.net)
-
-### Other skills
-- Orange belt in Karate
-- Silver medalist in Karate Kata (Regional)
-- Training to be a Karate Senpai and teaching white belts and beginners
-
-## Other Hobby's and interests
-- Running, Karate and weight lifting
-- Warhammer, MTG and board games
-- Dogs - [I have two English Springer Spaniels](https://www.instagram.com/adventures_of_murphy_and_goose/)
-
-## Contact
-- Web: [peterfisher.me.uk](peterfisher.me.uk)
-- Twitter: [pfwd](http://twitter.com/pfwd)
-- Linkedin: [peterrfisher](http://linkedin.com/in/peterrfisher/)
-- GitHub: [pfwd](http://github.com/pfwd)
+- 🌍 Website: [peterfisher.me.uk](https://peterfisher.me.uk)  
+- 💼 LinkedIn: [linkedin.com/in/peterrfisher](https://linkedin.com/in/peterrfisher)  
+- 🐦 Twitter: [@pfwd](https://twitter.com/pfwd)  
+- 💻 GitHub: [github.com/pfwd](https://github.com/pfwd)  
+- 🎓 Courses: [howtocodewell.net](https://howtocodewell.net)
